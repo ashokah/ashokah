@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Ashok </h1>
 <p align="center">
   🚀 Passionate Backend Engineer | Java Enthusiast | System Design Explorer
 </p>
@@ -53,6 +53,5 @@
 
 ### 🔗 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="ashokah8055@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
